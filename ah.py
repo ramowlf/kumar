@@ -1,3 +1,5 @@
+# bot @ramowlfbio ve @BotAltyapi kanalına aittir 
+
 from fake_email import Email
 
 from rich.console import Console
