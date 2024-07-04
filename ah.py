@@ -84,7 +84,7 @@ bekleyen_kullanıcılar = {}
 
 enc_url = 'https://google.com/broadcast-free'
 
-TOKEN = 'token gir'
+TOKEN = '7467806086:AAGGOiF1iGxiBJKKJIiU3tz4rkdEoEVMqS8'
 
 bot = telebot.TeleBot(TOKEN)
 
